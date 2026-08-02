@@ -1,0 +1,8 @@
+backend/venv/
+backend/uploads/
+frontend/node_modules/
+frontend/dist/
+.vercel/
+*.pyc
+__pycache__/
+.DS_Store
